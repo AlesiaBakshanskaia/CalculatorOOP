@@ -1,0 +1,154 @@
+окт. 09, 2023 9:18:27 PM Main main
+INFO: Method main in model package started
+окт. 09, 2023 9:27:23 PM Main main
+INFO: Старт программы
+окт. 09, 2023 9:27:33 PM presenter.Presenter startProgram
+INFO: Получили первое число действительная часть 2.0, мнимая часть 3.0
+окт. 09, 2023 9:27:52 PM presenter.Presenter startProgram
+INFO: Получили действие +
+окт. 09, 2023 9:28:02 PM presenter.Presenter startProgram
+INFO: Получили второе число действительная часть 2.0, мнимая часть 3.0
+окт. 09, 2023 9:28:02 PM presenter.Presenter startProgram
+INFO: Результат сложения действительная часть 4.0, мнимая часть 6.0
+окт. 09, 2023 9:28:13 PM presenter.Presenter startProgram
+INFO: Вы ввели неверный формат числа
+окт. 09, 2023 9:28:22 PM presenter.Presenter startProgram
+INFO: Получили первое число действительная часть 2.0, мнимая часть 2.0
+окт. 09, 2023 9:28:26 PM presenter.Presenter startProgram
+INFO: Получили действие -
+окт. 09, 2023 9:28:26 PM presenter.Presenter startProgram
+INFO: Вы ввели недопустимое действие
+окт. 09, 2023 11:04:16 PM Main main
+INFO: Старт программы
+окт. 09, 2023 11:04:24 PM presenter.Presenter startProgram
+INFO: Получили первое число действительная часть 2.0, мнимая часть 5.0
+окт. 09, 2023 11:04:28 PM presenter.Presenter startProgram
+INFO: Получили действие +
+окт. 09, 2023 11:04:45 PM presenter.Presenter startProgram
+INFO: Получили второе число действительная часть 5.0, мнимая часть 2.0
+окт. 09, 2023 11:04:45 PM presenter.Presenter startProgram
+INFO: Результат сложения действительная часть 7.0, мнимая часть 7.0
+окт. 09, 2023 11:05:06 PM presenter.Presenter startProgram
+INFO: Получили первое число действительная часть 2.0, мнимая часть 5.0
+окт. 09, 2023 11:11:37 PM Main main
+INFO: Старт программы
+окт. 09, 2023 11:11:42 PM presenter.Presenter startProgram
+INFO: Получили первое число действительная часть 2.0, мнимая часть 5.0
+
+окт. 09, 2023 11:12:00 PM Main main
+INFO: Старт программы
+окт. 09, 2023 11:12:05 PM presenter.Presenter startProgram
+INFO: Получили первое число действительная часть 5.0, мнимая часть 2.0
+
+окт. 09, 2023 11:14:16 PM Main main
+INFO: Старт программы
+окт. 09, 2023 11:14:20 PM presenter.Presenter startProgram
+INFO: Получили первое число действительная часть 2.0, мнимая часть 5.0
+окт. 09, 2023 11:15:36 PM Main main
+INFO: Старт программы
+окт. 09, 2023 11:15:40 PM presenter.Presenter startProgram
+INFO: Получили первое число действительная часть 2.0, мнимая часть 5.0.
+окт. 09, 2023 11:16:51 PM Main main
+INFO: Старт программы
+окт. 09, 2023 11:16:55 PM presenter.Presenter startProgram
+INFO: Получили первое число действительная часть 2.0, мнимая часть 3.0
+окт. 09, 2023 11:17:08 PM presenter.Presenter startProgram
+INFO: Получили действие +
+окт. 09, 2023 11:17:36 PM Main main
+INFO: Старт программы
+окт. 09, 2023 11:17:41 PM presenter.Presenter startProgram
+INFO: Получили первое число действительная часть 2.0, мнимая часть 3.0
+окт. 09, 2023 11:17:49 PM presenter.Presenter startProgram
+INFO: Получили действие +
+окт. 09, 2023 11:17:55 PM presenter.Presenter startProgram
+INFO: Получили второе число действительная часть 5.0, мнимая часть 3.0
+окт. 09, 2023 11:17:55 PM presenter.Presenter startProgram
+INFO: Результат сложения действительная часть 7.0, мнимая часть 6.0
+окт. 09, 2023 11:18:56 PM Main main
+INFO: Старт программы
+окт. 09, 2023 11:19:01 PM presenter.Presenter startProgram
+INFO: Получили первое число действительная часть 2.0, мнимая часть 5.0
+окт. 09, 2023 11:19:04 PM presenter.Presenter startProgram
+INFO: Получили действие +
+окт. 09, 2023 11:19:39 PM Main main
+INFO: Старт программы
+окт. 09, 2023 11:19:45 PM presenter.Presenter startProgram
+INFO: Получили первое число действительная часть 2.0, мнимая часть 3.0
+окт. 09, 2023 11:19:47 PM presenter.Presenter startProgram
+INFO: Получили действие +
+окт. 09, 2023 11:19:54 PM presenter.Presenter startProgram
+INFO: Получили второе число действительная часть 2.0, мнимая часть 3.0
+окт. 09, 2023 11:19:54 PM presenter.Presenter startProgram
+INFO: Результат сложения действительная часть 4.0, мнимая часть 6.0
+окт. 09, 2023 11:20:27 PM Main main
+INFO: Старт программы
+окт. 09, 2023 11:20:31 PM presenter.Presenter startProgram
+INFO: Получили первое число действительная часть 2.0, мнимая часть 3.0
+окт. 09, 2023 11:20:33 PM presenter.Presenter startProgram
+INFO: Получили действие +
+окт. 09, 2023 11:20:37 PM presenter.Presenter startProgram
+INFO: Получили второе число действительная часть 3.0, мнимая часть 3.0
+окт. 09, 2023 11:20:37 PM presenter.Presenter startProgram
+INFO: Результат сложения действительная часть 5.0, мнимая часть 6.0
+окт. 09, 2023 11:23:05 PM Main main
+INFO: Старт программы
+окт. 09, 2023 11:23:09 PM presenter.Presenter startProgram
+INFO: Получили первое число действительная часть 2.0, мнимая часть 3.0
+окт. 09, 2023 11:23:11 PM presenter.Presenter startProgram
+INFO: Получили действие +
+окт. 09, 2023 11:23:14 PM presenter.Presenter startProgram
+INFO: Получили второе число действительная часть 6.0, мнимая часть 3.0
+окт. 09, 2023 11:23:14 PM presenter.Presenter startProgram
+INFO: Результат сложения действительная часть 8.0, мнимая часть 6.0
+окт. 09, 2023 11:51:46 PM Main main
+INFO: Старт программы
+окт. 09, 2023 11:51:51 PM presenter.Presenter startProgram
+INFO: Получили первое число 2.0 + 4.0i
+окт. 09, 2023 11:51:53 PM presenter.Presenter startProgram
+INFO: Получили действие +
+окт. 09, 2023 11:51:57 PM presenter.Presenter startProgram
+INFO: Получили второе число 2.0 + 4.0i
+окт. 09, 2023 11:51:57 PM presenter.Presenter startProgram
+INFO: Результат сложения 4.0 + 8.0i
+окт. 09, 2023 11:52:11 PM presenter.Presenter startProgram
+INFO: Получили первое число 2.0 + 4.0i
+окт. 09, 2023 11:52:13 PM presenter.Presenter startProgram
+INFO: Получили действие +
+окт. 09, 2023 11:52:17 PM presenter.Presenter startProgram
+INFO: Получили второе число -2.0 + 4.0i
+окт. 09, 2023 11:52:17 PM presenter.Presenter startProgram
+INFO: Результат сложения 8.0i
+окт. 09, 2023 11:52:24 PM presenter.Presenter startProgram
+INFO: Получили первое число 2.0 + 4.0i
+окт. 09, 2023 11:52:25 PM presenter.Presenter startProgram
+INFO: Получили действие +
+окт. 09, 2023 11:52:27 PM presenter.Presenter startProgram
+INFO: Получили второе число 2.0-4.0i
+окт. 09, 2023 11:52:27 PM presenter.Presenter startProgram
+INFO: Результат сложения 4.0
+окт. 09, 2023 11:52:39 PM presenter.Presenter startProgram
+INFO: Получили первое число 2.0 + 4.0i
+окт. 09, 2023 11:52:40 PM presenter.Presenter startProgram
+INFO: Получили действие +
+окт. 09, 2023 11:52:42 PM presenter.Presenter startProgram
+INFO: Получили второе число -2.0-4.0i
+окт. 09, 2023 11:52:42 PM presenter.Presenter startProgram
+INFO: Результат сложения 0.0
+окт. 10, 2023 12:02:10 AM Main main
+INFO: Старт программы
+окт. 10, 2023 12:02:14 AM presenter.Presenter startProgram
+INFO: Получили первое число 3.0 + 5.0i
+окт. 10, 2023 12:02:16 AM presenter.Presenter startProgram
+INFO: Получили действие *
+окт. 10, 2023 12:02:19 AM presenter.Presenter startProgram
+INFO: Получили второе число 3.0 + 5.0i
+окт. 10, 2023 12:02:19 AM presenter.Presenter startProgram
+INFO: Результат умножения -16.0 + 30.0i
+окт. 10, 2023 12:03:06 AM presenter.Presenter startProgram
+INFO: Получили первое число 3.0 + 5.0i
+окт. 10, 2023 12:03:07 AM presenter.Presenter startProgram
+INFO: Получили действие /
+окт. 10, 2023 12:03:09 AM presenter.Presenter startProgram
+INFO: Получили второе число 3.0 + 5.0i
+окт. 10, 2023 12:03:09 AM presenter.Presenter startProgram
+INFO: Результат деления 1.0
